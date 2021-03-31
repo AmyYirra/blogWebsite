@@ -1,0 +1,29 @@
+html {
+  margin-left: 30;
+  color: black;
+
+}
+body{
+    background-color: #f9f3f3;
+}
+.navbar-brand{
+  margin-left: 30;
+}
+.navbar {
+  margin-left: 30;
+  background-color: #dddddd;
+}
+
+/* .container {
+background-color: #f9f3f3;
+} */
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #16c79a;
+  color: white;
+  text-align: center;
+}
